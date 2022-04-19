@@ -1,0 +1,26 @@
+body {
+    font-family: Lora, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+
+.header {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 140px;
+    background-color: antiquewhite;
+}
+
+.tableau {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.footer {
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 100px;
+    background-color: antiquewhite;
+    text-align: center;
+    line-height: 100px;
+}
